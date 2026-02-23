@@ -15,6 +15,3 @@ A modern, responsive cafe website built using React and Vite.
 - React
 - Vite
 - CSS
-
-## Live Demo
-(Add your Vercel link here after deployment)
